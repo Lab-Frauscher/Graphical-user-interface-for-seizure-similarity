@@ -1,5 +1,10 @@
 # Graphical User Interface
 
+
+
+
+![GUI example](fig.png)
+
 The following are the details of the different options and illustrations:
 
 ## 1 and 13. Seizure name: 
@@ -29,16 +34,9 @@ This slider is used to specify the time progression of a seizure.
 
 
 
-![GUI example](fig.png)
-
-
 ### Credits
 
-When using this Spike-Gamma implementation, please cite the following papers:
-
-Thomas, J., Kahane, P., Abdallah, C., Avigdor, T., Zweiphenning, W.J., Chabardes, S., Jaber, K., Latreille, V., Minotti, L., Hall, J. and Dubeau, F., 2023. A subpopulation of spikes predicts successful epilepsy surgery outcome. Annals of Neurology, 93(3), pp.522-535.
-
-Janca, R., Jezdik, P., Cmejla, R., Tomasek, M., Worrell, G.A., Stead, M., Wagenaar, J., Jefferys, J.G., Krsek, P., Komarek, V. and Jiruska, P., 2015. Detection of interictal epileptiform discharges using signal envelope distribution modelling: application to epileptic and non-epileptic intracranial recordings. Brain topography, 28, pp.172-183.
+The code will be updated soon!!
 
 ### Research License
 This repository is licensed under a research license. The code and resources provided are intended for academic and research purposes only. For any commercial or non-academic use, please contact the respective authors.
