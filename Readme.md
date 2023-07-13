@@ -3,7 +3,7 @@
 The following are the details of the different options and illustrations:
 ##1 and 13. Seizure name: 
 This is an identifier for seizures. In the interface, we illustrate two seizures, Seizure A and Seizure B, for comparison.
-2. Implanted electrodes: This figure illustrates an axial view (A), coronal view (B), sagittal left view (C), and sagittal right view (D) of the implanted electrodes. The BLUE spheres indicate the implanted channels, and the RED spheres indicate the channels involved in the seizure at the time specified on the SLIDER (12).
+##2. Implanted electrodes: This figure illustrates an axial view (A), coronal view (B), sagittal left view (C), and sagittal right view (D) of the implanted electrodes. The BLUE spheres indicate the implanted channels, and the RED spheres indicate the channels involved in the seizure at the time specified on the SLIDER (12).
 3. Anatomical region list: We illustrate the anatomical regions that correspond to each SEEG channel.
 4. SEEG data: We illustrate 100 seconds of SEEG data (15 s preceding the onset of the seizure and 75 s succeeding the onset of the seizure) as assessed by experts. The SEEG shown in the figure is filtered between 0.3-100 Hz along with a notch filter to remove the powerline interference. The RED marker indicates the onset of the seizure in each channel, and the BLUE marker indicates the end of the seizure. The illustration shows the first ten regions and SEEG segments involved in the seizure. There is an additional option to zoom in and out of the plot to see the SEEG patterns and the rest of the brain regions involved in the seizure.
 5. Time marker: This marker corresponds to the seizure time specified on the SLIDER (12).
