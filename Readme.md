@@ -4,7 +4,8 @@ The following are the details of the different options and illustrations:
 
 ## 1 and 13. Seizure name: 
 This is an identifier for seizures. In the interface, we illustrate two seizures, Seizure A and Seizure B, for comparison.
-## 2. Implanted electrodes: This figure illustrates an axial view (A), coronal view (B), sagittal left view (C), and sagittal right view (D) of the implanted electrodes. The BLUE spheres indicate the implanted channels, and the RED spheres indicate the channels involved in the seizure at the time specified on the SLIDER (12).
+## 2. Implanted electrodes: 
+This figure illustrates an axial view (A), coronal view (B), sagittal left view (C), and sagittal right view (D) of the implanted electrodes. The BLUE spheres indicate the implanted channels, and the RED spheres indicate the channels involved in the seizure at the time specified on the SLIDER (12).
 ## 3. Anatomical region list: 
 We illustrate the anatomical regions that correspond to each SEEG channel.
 ## 4. SEEG data: 
