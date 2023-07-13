@@ -29,7 +29,7 @@ This slider is used to specify the time progression of a seizure.
 
 
 
-![Spike-gamma example](example.png)
+![GUI example](fig.png)
 
 
 ### Credits
