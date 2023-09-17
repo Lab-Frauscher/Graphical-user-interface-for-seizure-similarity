@@ -14,7 +14,7 @@ This figure illustrates an axial view (A), coronal view (B), sagittal left view 
 ## 3. Anatomical region list: 
 We illustrate the anatomical regions that correspond to each SEEG channel.
 ## 4. SEEG data: 
-We illustrate 100 seconds of SEEG data (15 s preceding the onset of the seizure and 75 s succeeding the onset of the seizure) as assessed by experts. The SEEG shown in the figure is filtered between 0.3-100 Hz along with a notch filter to remove the powerline interference. The RED marker indicates the onset of the seizure in each channel, and the BLUE marker indicates the end of the seizure. The illustration shows the first ten regions and SEEG segments involved in the seizure. There is an additional option to zoom in and out of the plot to see the SEEG patterns and the rest of the brain regions involved in the seizure.
+We illustrate 100 seconds of SEEG data (15 s preceding the onset of the seizure and 85 s succeeding the onset of the seizure) as assessed by experts. The SEEG shown in the figure is filtered between 0.3-100 Hz along with a notch filter to remove the powerline interference. The RED marker indicates the onset of the seizure in each channel, and the BLUE marker indicates the end of the seizure. The illustration shows the first ten regions and SEEG segments involved in the seizure. There is an additional option to zoom in and out of the plot to see the SEEG patterns and the rest of the brain regions involved in the seizure.
 ## 5. Time marker: 
 This marker corresponds to the seizure time specified on the SLIDER (12).
 ## 6. Similarity options: 
