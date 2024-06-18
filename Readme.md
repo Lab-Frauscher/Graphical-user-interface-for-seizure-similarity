@@ -41,8 +41,8 @@ The code is available in `GUI.zip`. Follow these steps to evaluate the GUI using
 3. The folder contains 6 files/folders:
    - **Data clips**: Contains seizure segments. This file is a `76x5` MATLAB cell file where each column represents:
      - `c1`: Bipolar channel name
-     - `c2`: Start of seizure
-     - `c3`: End of seizure
+     - `c2`: Annotated start of seizure in the channel
+     - `c3`: Annotated end of seizure in the channel
      - `c4`: Anatomical location using MICCAI atlas
      - `c5`: SEEG data segment
    - **Slides Images**: Images for each second of bipolar electrode implantations showing how the seizure spreads.
@@ -54,6 +54,7 @@ The code is available in `GUI.zip`. Follow these steps to evaluate the GUI using
      - `c4`: Seizure onset pattern number
    - **GUI.m**: The main code to run for the GUI.
    - **onset_lib.mat**: Contains the names of seizure onset patterns corresponding to the numbers in column 4 of the segment information.
+4. Open GUI.m and enjoy using the GUI.
 ---
 
 ### Credits
