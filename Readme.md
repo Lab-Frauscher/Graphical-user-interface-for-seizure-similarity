@@ -32,11 +32,33 @@ This field indicates the seizure onset pattern that was determined visually by t
 ## 12. Slider:
 This slider is used to specify the time progression of a seizure.
 
+# Graphical User Interface
 
+The code is available in `GUI.zip`. Follow these steps to evaluate the GUI using artificially generated test patient data 'P1_1':
+
+1. Unzip the folder `GUI`.
+2. Use MATLAB 2022b or above to run the following code.
+3. The folder contains 6 files/folders:
+   - **Data clips**: Contains seizure segments. This file is a `76x5` MATLAB cell file where each column represents:
+     - `c1`: Bipolar channel name
+     - `c2`: Start of seizure
+     - `c3`: End of seizure
+     - `c4`: Anatomical location using MICCAI atlas
+     - `c5`: SEEG data segment
+   - **Slides Images**: Images for each second of bipolar electrode implantations showing how the seizure spreads.
+   - **Annotator_1.xlsx**: Contains a list of seizure pairs being compared.
+   - **feature_set.mat**: Contains the database of seizure segment information with 4 columns:
+     - `c1`: ID of seizure
+     - `c2`: Onset region of seizure
+     - `c3`: Seizure duration
+     - `c4`: Seizure onset pattern number
+   - **GUI.m**: The main code to run for the GUI.
+   - **onset_lib.mat**: Contains the names of seizure onset patterns corresponding to the numbers in column 4 of the segment information.
+---
 
 ### Credits
 
-The code will be updated soon!!
+Thomas, J., Abdallah, C., Jaber, K., Aron, O., Dolezalov, I., Gnatkovsky, V., Mansilla, D., Nevalainen, P., Pana, R., Schuele, S. and Singh, J., 2024. Development of a Seizure Matching System for Clinical Decision Making in Epilepsy Surgery. medRxiv, pp.2024-01.
 
 ### Research License
 This repository is licensed under a research license. The code and resources provided are intended for academic and research purposes only. For any commercial or non-academic use, please contact the respective authors.
