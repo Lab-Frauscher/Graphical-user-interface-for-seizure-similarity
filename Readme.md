@@ -58,6 +58,10 @@ The code is available in `GUI.zip`. Follow these steps to evaluate the GUI using
 5. After GUI is open, press 'Plot' to view seizure pair
 6. Select similarity level and press next
 7. Output is saved in an excel sheet named "Results_Annotator_1.xlsx" found in the GUI folder
+   - `c1`: Seizure pair number
+   - `c2`: Pair 1
+   - `c3`: Pair 2
+   - `c4`: Similarity level 
 ---
 
 ### Credits
