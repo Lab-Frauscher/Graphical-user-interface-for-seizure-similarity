@@ -55,6 +55,9 @@ The code is available in `GUI.zip`. Follow these steps to evaluate the GUI using
    - **GUI.m**: The main code to run for the GUI.
    - **onset_lib.mat**: Contains the names of seizure onset patterns corresponding to the numbers in column 4 of the segment information.
 4. Open GUI.m and click run.
+5. After GUI is open, press 'Plot' to view seizure pair
+6. Select similarity level and press next
+7. Output is saved in an excel sheet named "Results_Annotator_1.xlsx"
 ---
 
 ### Credits
