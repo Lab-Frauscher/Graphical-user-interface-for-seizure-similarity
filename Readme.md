@@ -57,7 +57,7 @@ The code is available in `GUI.zip`. Follow these steps to evaluate the GUI using
 4. Open GUI.m and click run.
 5. After GUI is open, press 'Plot' to view seizure pair
 6. Select similarity level and press next
-7. Output is saved in an excel sheet named "Results_Annotator_1.xlsx"
+7. Output is saved in an excel sheet named "Results_Annotator_1.xlsx" found in the GUI folder
 ---
 
 ### Credits
