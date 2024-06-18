@@ -54,7 +54,7 @@ The code is available in `GUI.zip`. Follow these steps to evaluate the GUI using
      - `c4`: Seizure onset pattern number
    - **GUI.m**: The main code to run for the GUI.
    - **onset_lib.mat**: Contains the names of seizure onset patterns corresponding to the numbers in column 4 of the segment information.
-4. Open GUI.m and enjoy using the GUI.
+4. Open GUI.m and click run.
 ---
 
 ### Credits
